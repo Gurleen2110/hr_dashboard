@@ -5,11 +5,17 @@ This HR Dashboard created in Power BI provides a comprehensive overview of key H
 Key Components of the HR Dashboard:
 
 Overall Headcount and Employee Status:
+
 Headcount: The total number of employees is 311.
+
 Active Employees: 207 employees, constituting 67% of the total workforce.
+
 Terminated Employees: 104 employees, making up 33% of the total workforce.
+
 Gender Distribution:
+
 Male Employees: 135 employees (43%).
+
 Female Employees: 176 employees (57%).
 
 Salary Distribution:
