@@ -1,25 +1,27 @@
 HR Dashboard Project in Power BI
+
 ![dashboard](https://github.com/user-attachments/assets/ef52c342-0348-4c00-bcb2-7df4ec5d3713)
 This HR Dashboard created in Power BI provides a comprehensive overview of key HR metrics and statistics, offering valuable insights to HR managers and stakeholders for informed decision-making.
 
 Key Components of the HR Dashboard:
 
-Overall Headcount and Employee Status:
+-Overall Headcount and Employee Status:
 
-Headcount: The total number of employees is 311.
+1.Headcount: The total number of employees is 311.
 
-Active Employees: 207 employees, constituting 67% of the total workforce.
+2.Active Employees: 207 employees, constituting 67% of the total workforce.
 
-Terminated Employees: 104 employees, making up 33% of the total workforce.
+3.Terminated Employees: 104 employees, making up 33% of the total workforce.
 
 Gender Distribution:
 
-Male Employees: 135 employees (43%).
+-Male Employees: 135 employees (43%).
 
-Female Employees: 176 employees (57%).
+1.Female Employees: 176 employees (57%).
 
-Salary Distribution:
-Total Salary: 21.47 million.
+-Salary Distribution:
+
+1.Total Salary: 21.47 million.
 
 Breakdown by Department:
 Production: 12,530,291
